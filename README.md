@@ -1,6 +1,6 @@
 # Tentang Project
 
-Project ini merupakan salah satu hasil pekerjaan saya saat mengikuti magang pada semester 6. Aplikasi tes kraepelin digunakan untuk menguji kemampuan kandidat karyawan dalam menghitung dan melakukan manajemen waktu. Sistem dibuat menggunakan bahasa pemrograman PHP dan JavaScript secara native, dengan bantuan sejumlah plugin/library seperti DataTable, Bootstrap, dan PHPExcel. Berikut adalah rincian dari program yang dibuat:
+Project ini merupakan salah satu hasil pekerjaan saya saat mengikuti magang pada semester 6. Aplikasi tes kraepelin digunakan untuk menguji kemampuan kandidat karyawan dalam menghitung dan melakukan manajemen waktu. Sistem dibuat menggunakan bahasa pemrograman PHP dan JavaScript secara native, dengan bantuan sejumlah plugin/library seperti Bootstrap dan PHPExcel. Berikut adalah rincian dari program yang dibuat:
 - Program terdiri dari 2 role, yakni peserta dan admin
 - Peserta dapat melakukan login, kemudian mengikuti tes yang disediakan. Cara pengerjaannya adalah menjumlahkan 2 angka (atas dan bawah) pada setiap kolom yang ada, dan dimulai dari angka paling bawah. Apabila peserta melakukan kecurangan seperti membuka tab lain, maka sistem akan secara otomatis melakukan refresh sehingga peserta harus mengulang dari awal
 - Admin dapat melihat hasil dari pekerjaan yang telah diselesaikan oleh setiap peserta. Selain itu, hasil ini juga dapat di export menjadi file excel.
